@@ -1,6 +1,9 @@
 
 
-# Awesome Homepage 🌟
+# Note: this has been archived try the new version :
+https://webhomepage.netlify.app/
+
+---
 
 Welcome to our awesome homepage project! 
 Its inspired by google's material design 3,
@@ -13,6 +16,8 @@ The homepage features a **clean and modern** *material design* with a personaliz
 https://my-webpage01.netlify.app
 
 https://ronak-08.github.io/Web-Homepage
+
+## try the new version: https://webhomepage.netlify.app/
 
 ## Features 🚀
 
@@ -44,13 +49,3 @@ https://ronak-08.github.io/Web-Homepage
 
 1. Clone the repository.
 2. Open `index.html` in your web browser.
-3. Enjoy exploring the features!
-
-## Contributing 🤝
-
-We welcome contributions! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request.
-
-## Feedback 💬
-
-Have feedback or questions? I'd love to hear from you! Reach out to me via ronakameta65@gmail.com
-
